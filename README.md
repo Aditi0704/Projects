@@ -22,3 +22,13 @@ month: last contact month of year (categorical: 'jan', 'feb', 'mar', ..., 'nov',
 day_of_week: last contact day of the week (categorical: 'mon','tue','wed','thu','fri')
 poutcome: outcome of the previous marketing campaign (categorical: 'failure','nonexistent','success')
 UCI Repository: https://archive.ics.uci.edu/ml/datasets/bank+marketing
+
+Problem Statement
+The data is related with direct marketing campaigns of a Portuguese banking institution. The marketing campaigns were based on phone calls. Often, more than one contact to the same client was required, in order to access if the product (bank term deposit) would be ('yes') or not ('no') subscribed.
+
+Libraries used 
+Pandas
+Numpy
+Kmodes
+Matplotib 
+Seaborn
